@@ -1,7 +1,4 @@
 import time as sure
-import os
-os.system('pip install instaloader')
-
 import instaloader,sys
 from instaloader import Instaloader
 S = '\033[1;31m' 
